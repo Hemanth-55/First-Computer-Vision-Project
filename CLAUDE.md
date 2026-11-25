@@ -11,6 +11,7 @@ Claude: read this file, then `notes/`, at the start of every session.
 - Downstream: case study + innings-vision lab on the portfolio, and `scripts/data/cv-poses.json` in the profile repo.
 
 ## Rules
+- **North star:** Hemi is becoming a consultant / advisor to the sports industry. Frame every output (README, demo, deck, résumé line) as decision → data → logic → recommendation → impact. See https://github.com/Hemanth-55/Tamil-/blob/main/notes/north-star.md
 - Apple-level quality: minimal, professional, clear to a layman at a glance. Speak to tech people, no gimmicks.
 - Never describe projects as done at BU.
 - Never commit secrets, raw licensed data or large media.
