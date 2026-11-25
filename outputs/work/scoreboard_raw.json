@@ -1,0 +1,2943 @@
+[
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 0.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 0.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 1.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 1.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 2.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 2.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 3.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 3.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 4.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 4.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 5.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3)",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 5.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 6.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 6.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 7.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 7.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 8.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 8.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "4-0",
+"over": "0.5",
+"b1": "RAM ARVINDH 1 (2)",
+"b2": ">G HEMANTH 1 (3).",
+"bowl": "R RAJKUMAR 0-3 (0.5)",
+"thisover": "1010",
+"t": 9.0
+},
+{
+"bug": true,
+"blue": 0.75,
+"score": "8-0",
+"over": "",
+"b1": "*RAM ARVINDH 1 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "R RAJKUMAR 0-7 (1)",
+"thisover": "14",
+"t": 9.5
+},
+{
+"bug": true,
+"blue": 0.75,
+"score": "8-0",
+"over": "",
+"b1": "*RAM ARVINDH 1 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "R RAJKUMAR 0-7 (1)",
+"thisover": "104",
+"t": 10.0
+},
+{
+"bug": true,
+"blue": 0.75,
+"score": "8-0",
+"over": "",
+"b1": "*RAM ARVINDH 1 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "R RAJKUMAR 0-7 (1)",
+"thisover": "104",
+"t": 10.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "8-0",
+"over": "",
+"b1": "*RAM ARVINDH 1 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "R RAJKUMAR 0-7 (1)",
+"thisover": "104",
+"t": 11.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "8-0",
+"over": "",
+"b1": "*RAM ARVINDH 1 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "R RAJKUMAR 0-7 (1)",
+"thisover": "104",
+"t": 11.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "8-0",
+"over": "114",
+"b1": "*RAM ARVINDH 7 (2)",
+"b2": "G HEMANTH 5 (4)",
+"bowl": "8 RAJKUMAR 0-7 (1)4)",
+"thisover": "D4",
+"t": 12.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6).",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 12.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 13.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 13.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 14.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 14.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 15.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6).",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 15.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6).",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 16.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 16.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 17.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 17.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 18.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 18.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 19.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "11-0",
+"over": "1.4",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 6 (6)",
+"bowl": "J JABEZ 0-3 (0.4)",
+"thisover": "",
+"t": 19.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "00008",
+"t": 20.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D49D",
+"t": 20.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "DD49",
+"t": 21.0
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "6806486",
+"t": 21.5
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 22.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D45",
+"t": 22.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "0006",
+"t": 23.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "DD4",
+"t": 23.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "DD4",
+"t": 24.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D4",
+"t": 24.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D4",
+"t": 25.0
+},
+{
+"bug": true,
+"blue": 0.67,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D49",
+"t": 25.5
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D",
+"t": 26.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 26.5
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 27.0
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "DBD49",
+"t": 27.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 28.0
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 28.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 29.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "D4",
+"t": 29.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7).",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 30.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": "> G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "BD4",
+"t": 30.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "15-0",
+"over": "1.5",
+"b1": "RAM ARVINDH 3 (4)",
+"b2": ">G HEMANTH 10 (7)",
+"bowl": "J JABEZ 0-7 (0.5)",
+"thisover": "11104",
+"t": 31.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "19-0",
+"over": "",
+"b1": "*RAM ARVINDH 3 (4)",
+"b2": "G HEMANTH 14",
+"bowl": "J JABEZ 0-11 (1)",
+"thisover": "144",
+"t": 31.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "19-0",
+"over": "",
+"b1": "*RAM ARVINDH 3 (4)",
+"b2": "G HEMANTH 14 (8)",
+"bowl": "J JABEZ 0-17 (1)",
+"thisover": "144",
+"t": 32.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "19-0",
+"over": "",
+"b1": "*RAM ARVINDH 3 (4)",
+"b2": "G HEMANTH 14 (8)",
+"bowl": "J JABEZ 0-11 (1)",
+"thisover": "11044",
+"t": 32.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "19-0",
+"over": "",
+"b1": "*RAM ARVINDH 3 (4)",
+"b2": "G HEMANTH 14 (8)",
+"bowl": "J JABEZ 0-11 (1)",
+"thisover": "1044",
+"t": 33.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "19-0",
+"over": "",
+"b1": "*RAM ARVINDH 3 (4)",
+"b2": "G HEMANTH 14 (8)",
+"bowl": "J JABEZ 0-11 (1)",
+"thisover": "11044",
+"t": 33.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "29-0",
+"over": "322",
+"b1": "*RAM ARVINDH 3 (ap)",
+"b2": ">G HEMANTH 12 (ap)",
+"bowl": "3 AMBER OG+ (2)2)",
+"thisover": "2144",
+"t": 34.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 34.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 35.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 35.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 36.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 36.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 37.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 37.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 38.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 38.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 39.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 39.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 40.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 40.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 41.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 41.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 42.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 42.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "27-0",
+"over": "3.2",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 17 (10)",
+"bowl": "SANJEEV KR 0-3 (0.2)",
+"thisover": "",
+"t": 43.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.3",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (11)",
+"bowl": "SANJEEV KR 0-7 (0.3)",
+"thisover": "601600",
+"t": 43.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.3",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (11)",
+"bowl": "SANJEEV KR 0-7 (0.3)",
+"thisover": "241660",
+"t": 44.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.3",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (11)",
+"bowl": "SANJEEV KR 0-7 (0.3)",
+"thisover": "01600",
+"t": 44.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.3",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (11)",
+"bowl": "SANJEEV KR 0-7 (0.3)",
+"thisover": "01600",
+"t": 45.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "004600",
+"t": 45.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "64600",
+"t": 46.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "01600",
+"t": 46.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "601600",
+"t": 47.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "601600",
+"t": 47.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "0041600",
+"t": 48.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "0041600",
+"t": 48.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "00416060",
+"t": 49.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "6041600",
+"t": 49.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "061600",
+"t": 50.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "061600",
+"t": 50.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "001600",
+"t": 51.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "B4826",
+"t": 51.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "601600",
+"t": 52.0
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "001600",
+"t": 52.5
+},
+{
+"bug": true,
+"blue": 0.68,
+"score": "31-0",
+"over": "3.4",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 21 (12)",
+"bowl": "SANJEEV KR 0-7 (0.4)",
+"thisover": "016060",
+"t": 53.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "35-0",
+"over": "3.5",
+"b1": "RAM ARVINDH 8 (10)",
+"b2": ">G HEMANTH 25 (13)",
+"bowl": "SANJEEV KR 0-11 (0.5)",
+"thisover": "21404",
+"t": 53.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "64-0",
+"over": "8.4",
+"b1": "S SUDAN >) 5 (9)",
+"b2": ">G HEMANTH 24 (24)",
+"bowl": "SWAMINATHAN 04+9 (1.4)",
+"thisover": "10416",
+"t": 54.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 54.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 55.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 55.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 56.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 56.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 57.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5H (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 57.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 58.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 58.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 59.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": "> G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 59.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 60.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "64-1",
+"over": "8.4",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 34 (24)",
+"bowl": "SWAMINATHAN 1-9 (1.4)",
+"thisover": "",
+"t": 60.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "68-1",
+"over": "8.5",
+"b1": "S SUDAN 5 (9)",
+"b2": ">G HEMANTH 38 (25)",
+"bowl": "SWAMINATHAN 1-13 (1.5)",
+"thisover": "01114",
+"t": 61.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "2",
+"t": 61.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "3",
+"t": 62.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "3",
+"t": 62.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "3",
+"t": 63.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "6",
+"t": 63.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "017617",
+"t": 64.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "",
+"t": 64.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "",
+"t": 65.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "",
+"t": 65.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "",
+"t": 66.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "",
+"t": 66.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "01761",
+"t": 67.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "01761",
+"t": 67.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "01761",
+"t": 68.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13\u00b0 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "017161",
+"t": 68.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "01717161",
+"t": 69.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "77-1",
+"over": "9.5",
+"b1": "S SUDAN 13 (13)",
+"b2": ">G HEMANTH 39 (27)",
+"bowl": "S ARAVIND 0-14 (1.5)",
+"thisover": "017161",
+"t": 69.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "83-1",
+"over": "10",
+"b1": "-S SUDAN 13 (13)",
+"b2": "G HEMANTH 45 (28)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "66",
+"t": 70.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "83-1",
+"over": "10",
+"b1": "-S SUDAN 13 (13)",
+"b2": "G HEMANTH 45 (28)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "3",
+"t": 70.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "83-1",
+"over": "10",
+"b1": "*S SUDAN 13 (13)",
+"b2": "G HEMANTH 45 (28)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "3",
+"t": 71.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "83-1",
+"over": "10",
+"b1": "-S SUDAN 13 (13)",
+"b2": "G HEMANTH 45 (28)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "66",
+"t": 71.5
+},
+{
+"bug": false,
+"blue": 0.26,
+"t": 72.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 72.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 73.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 73.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 74.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 74.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 75.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 75.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 76.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 76.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 77.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 77.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 78.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 78.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 79.0
+},
+{
+"bug": false,
+"blue": 0.01,
+"t": 79.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 80.0
+},
+{
+"bug": false,
+"blue": 0.05,
+"t": 80.5
+},
+{
+"bug": true,
+"blue": 0.67,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH AG (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "4",
+"t": 81.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH AG (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 81.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 4G (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 82.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 82.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "11",
+"t": 83.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "1D1",
+"t": 83.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH AG (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "1",
+"t": 84.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 84.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "11",
+"t": 85.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 4G (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "",
+"t": 85.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "1",
+"t": 86.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 86.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 4G (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "11",
+"t": 87.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 46 (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "1",
+"t": 87.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH 4G (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "01101",
+"t": 88.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH AG (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "1L1",
+"t": 88.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "86-1",
+"over": "10.5",
+"b1": "S SUDAN 15 (17)",
+"b2": ">G HEMANTH AG (29)",
+"bowl": "SWAMINATHAN 1-16 (2.5)",
+"thisover": "",
+"t": 89.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "92-1",
+"over": "11",
+"b1": "*S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 89.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "92-1",
+"over": "11",
+"b1": "*S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 90.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 90.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "11016",
+"t": 91.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "11076",
+"t": 91.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "11076",
+"t": 92.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 92.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 93.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "",
+"t": 93.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "",
+"t": 94.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "",
+"t": 94.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 95.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 95.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "6",
+"t": 96.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "92-1",
+"over": "11",
+"b1": "-S SUDAN 15 (17)",
+"b2": "G HEMANTH 52 (30)",
+"bowl": "SWAMINATHAN 1-22 (3)",
+"thisover": "11016",
+"t": 96.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 97.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 97.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 98.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 98.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 99.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 99.5
+},
+{
+"bug": false,
+"blue": 0.1,
+"t": 100.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 100.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 101.0
+},
+{
+"bug": false,
+"blue": 0.01,
+"t": 101.5
+},
+{
+"bug": true,
+"blue": 0.44,
+"score": "-",
+"over": ".",
+"b1": "/-",
+"b2": "|",
+"bowl": "",
+"thisover": "",
+"t": 102.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "",
+"over": "",
+"b1": "Ce a",
+"b2": "-) 7",
+"bowl": "",
+"thisover": "",
+"t": 102.5
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "7",
+"over": "",
+"b1": ", . = : :",
+"b2": "7",
+"bowl": "\u2014",
+"thisover": "",
+"t": 103.0
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "",
+"over": "1",
+"b1": "2",
+"b2": "",
+"bowl": "a. fs",
+"thisover": "",
+"t": 103.5
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "",
+"over": "",
+"b1": "ae es ae",
+"b2": "\u2014 il",
+"bowl": ">. | eee",
+"thisover": "",
+"t": 104.0
+},
+{
+"bug": false,
+"blue": 0.2,
+"t": 104.5
+},
+{
+"bug": false,
+"blue": 0.06,
+"t": 105.0
+},
+{
+"bug": true,
+"blue": 0.37,
+"score": "",
+"over": "",
+"b1": "",
+"b2": "\u2014 a ie",
+"bowl": "fe",
+"thisover": "",
+"t": 105.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 106.0
+},
+{
+"bug": false,
+"blue": 0.15,
+"t": 106.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 107.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 107.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 108.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 108.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 109.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 109.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 110.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 110.5
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 111.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 111.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 112.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 112.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 113.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 113.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 114.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "-SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 114.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "93-1",
+"over": "11.1",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 52 (30)",
+"bowl": "SANJEEV KR 0-22 (2.1)",
+"thisover": "",
+"t": 115.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 115.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 116.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 116.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 117.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 117.5
+},
+{
+"bug": true,
+"blue": 0.39,
+"score": "99-1",
+"over": "11.2",
+"b1": "S SUDAN 16 (18)",
+"b2": ">G HEMANTH 58 (31)",
+"bowl": "SANJEEV KR 0-28 (2.2)",
+"thisover": "",
+"t": 118.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 118.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 119.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 119.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 120.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 120.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 121.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 121.5
+},
+{
+"bug": false,
+"blue": 0.06,
+"t": 122.0
+},
+{
+"bug": false,
+"blue": 0.01,
+"t": 122.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 123.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 123.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "2",
+"over": "",
+"b1": "",
+"b2": "\u2014 a",
+"bowl": "ae",
+"thisover": "",
+"t": 124.0
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "-",
+"over": "",
+"b1": "t= \u00ab| 8",
+"b2": "oo | 1 ik",
+"bowl": "er",
+"thisover": "4",
+"t": 124.5
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "",
+"over": "",
+"b1": "Ee |",
+"b2": "fae",
+"bowl": "",
+"thisover": "7",
+"t": 125.0
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "",
+"over": "",
+"b1": "7 ie,",
+"b2": "+ Je",
+"bowl": "s=ay) one:",
+"thisover": "",
+"t": 125.5
+},
+{
+"bug": true,
+"blue": 0.99,
+"score": "",
+"over": "",
+"b1": "ee eae",
+"b2": "ee wD",
+"bowl": "su) -\u00ab eo Tee",
+"thisover": "",
+"t": 126.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "",
+"over": ".",
+"b1": "er",
+"b2": "*\u2014_ FP",
+"bowl": "ee, oe",
+"thisover": "",
+"t": 126.5
+},
+{
+"bug": false,
+"blue": 0.25,
+"t": 127.0
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 127.5
+},
+{
+"bug": false,
+"blue": 0.01,
+"t": 128.0
+},
+{
+"bug": true,
+"blue": 0.49,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 128.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 129.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "L",
+"t": 129.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "101411",
+"t": 130.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 130.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 131.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 131.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 132.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 132.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 133.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 133.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 134.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 134.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109- 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 135.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 135.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 136.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "115-1",
+"over": "13.1",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 71 (38)",
+"bowl": "S ARAVIND 0-26 (2.1)",
+"thisover": "",
+"t": 136.5
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "115-1",
+"over": "13.1",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 71 (33)",
+"bowl": "S ARAVIND 0-26 (2.1)",
+"thisover": "",
+"t": 137.0
+},
+{
+"bug": true,
+"blue": 0.74,
+"score": "115-1",
+"over": "13.1",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 71 (33)",
+"bowl": "S ARAVIND 0-26 (2.1)",
+"thisover": "",
+"t": 137.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH B5 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "LDD",
+"t": 138.0
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 138.5
+},
+{
+"bug": true,
+"blue": 0.7,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 139.0
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 139.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "D",
+"t": 140.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "011",
+"t": 140.5
+},
+{
+"bug": true,
+"blue": 0.69,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 141.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 141.5
+},
+{
+"bug": true,
+"blue": 0.71,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 142.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 142.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 143.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 143.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 144.0
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 144.5
+},
+{
+"bug": true,
+"blue": 0.72,
+"score": "109 9-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 145.0
+},
+{
+"bug": true,
+"blue": 0.73,
+"score": "109-1",
+"over": "13",
+"b1": "S SUDAN 19 (21)",
+"b2": ">G HEMANTH 65 (38)",
+"bowl": "S ARAVIND 0-20 (2)",
+"thisover": "",
+"t": 145.5
+},
+{
+"bug": false,
+"blue": 0.0,
+"t": 146.0
+}
+]

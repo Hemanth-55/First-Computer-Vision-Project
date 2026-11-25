@@ -1,0 +1,204 @@
+[
+ {
+  "t0": 0.0,
+  "t1": 9.0,
+  "runs": 1,
+  "balls": 3,
+  "team": [
+   4,
+   0
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 9.5,
+  "t1": 12.0,
+  "runs": 5,
+  "balls": 4,
+  "team": [
+   8,
+   0
+  ],
+  "next_runs": 1,
+  "next_balls": 2
+ },
+ {
+  "t0": 12.5,
+  "t1": 19.5,
+  "runs": 6,
+  "balls": 6,
+  "team": [
+   11,
+   0
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 20.0,
+  "t1": 31.5,
+  "runs": 10,
+  "balls": 7,
+  "team": [
+   15,
+   0
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 32.0,
+  "t1": 34.0,
+  "runs": 14,
+  "balls": 8,
+  "team": [
+   19,
+   0
+  ],
+  "next_runs": 3,
+  "next_balls": 2
+ },
+ {
+  "t0": 34.5,
+  "t1": 43.0,
+  "runs": 17,
+  "balls": 10,
+  "team": [
+   27,
+   0
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 43.5,
+  "t1": 45.0,
+  "runs": 21,
+  "balls": 11,
+  "team": [
+   31,
+   0
+  ],
+  "next_runs": 0,
+  "next_balls": 1
+ },
+ {
+  "t0": 45.5,
+  "t1": 53.0,
+  "runs": 21,
+  "balls": 12,
+  "team": [
+   31,
+   0
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 53.5,
+  "t1": 53.5,
+  "runs": 25,
+  "balls": 13,
+  "team": [
+   35,
+   0
+  ],
+  "next_runs": 9,
+  "next_balls": 11
+ },
+ {
+  "t0": 54.0,
+  "t1": 60.5,
+  "runs": 34,
+  "balls": 24,
+  "team": [
+   64,
+   1
+  ],
+  "next_runs": 4,
+  "next_balls": 1
+ },
+ {
+  "t0": 61.0,
+  "t1": 61.0,
+  "runs": 38,
+  "balls": 25,
+  "team": [
+   68,
+   1
+  ],
+  "next_runs": 1,
+  "next_balls": 2
+ },
+ {
+  "t0": 61.5,
+  "t1": 69.5,
+  "runs": 39,
+  "balls": 27,
+  "team": [
+   77,
+   1
+  ],
+  "next_runs": 6,
+  "next_balls": 1
+ },
+ {
+  "t0": 70.0,
+  "t1": 82.0,
+  "runs": 45,
+  "balls": 28,
+  "team": [
+   83,
+   1
+  ],
+  "next_runs": 1,
+  "next_balls": 1
+ },
+ {
+  "t0": 82.5,
+  "t1": 89.0,
+  "runs": 46,
+  "balls": 29,
+  "team": [
+   86,
+   1
+  ],
+  "next_runs": 6,
+  "next_balls": 1
+ },
+ {
+  "t0": 89.5,
+  "t1": 115.0,
+  "runs": 52,
+  "balls": 30,
+  "team": [
+   92,
+   1
+  ],
+  "next_runs": 6,
+  "next_balls": 1
+ },
+ {
+  "t0": 115.5,
+  "t1": 126.5,
+  "runs": 58,
+  "balls": 31,
+  "team": [
+   99,
+   1
+  ],
+  "next_runs": 7,
+  "next_balls": 7
+ },
+ {
+  "t0": 128.5,
+  "t1": 145.5,
+  "runs": 65,
+  "balls": 38,
+  "team": [
+   109,
+   1
+  ]
+ }
+]

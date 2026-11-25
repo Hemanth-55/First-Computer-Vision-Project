@@ -1,0 +1,407 @@
+[
+ {
+  "shot": 0,
+  "start": 0,
+  "end": 2.74,
+  "persons": 3.0,
+  "med_h": 845.6336669921875,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 1,
+  "start": 2.74,
+  "end": 4.58,
+  "persons": 6.0,
+  "med_h": 262.29736328125,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 2,
+  "start": 4.58,
+  "end": 9.05,
+  "persons": 3.0,
+  "med_h": 271.40301513671875,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 3,
+  "start": 9.05,
+  "end": 14.26,
+  "persons": 6.0,
+  "med_h": 240.43112182617188,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 4,
+  "start": 14.26,
+  "end": 18.62,
+  "persons": 1.0,
+  "med_h": 240.3765869140625,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 5,
+  "start": 18.62,
+  "end": 20.05,
+  "persons": 6.0,
+  "med_h": 260.13055419921875,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 6,
+  "start": 20.05,
+  "end": 24.09,
+  "persons": 6.0,
+  "med_h": 252.9688720703125,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 7,
+  "start": 24.09,
+  "end": 28.9,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 8,
+  "start": 28.9,
+  "end": 29.85,
+  "persons": 6.0,
+  "med_h": 243.0498046875,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 9,
+  "start": 29.85,
+  "end": 34.1,
+  "persons": 4.0,
+  "med_h": 821.9310302734375,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 10,
+  "start": 34.1,
+  "end": 35.73,
+  "persons": 5.0,
+  "med_h": 255.64404296875,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 11,
+  "start": 35.73,
+  "end": 42.49,
+  "persons": 3.0,
+  "med_h": 209.5408935546875,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 12,
+  "start": 42.49,
+  "end": 45.54,
+  "persons": 4.0,
+  "med_h": 843.67138671875,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 13,
+  "start": 45.54,
+  "end": 49.74,
+  "persons": 5.0,
+  "med_h": 246.73028564453125,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 14,
+  "start": 49.74,
+  "end": 51.66,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 15,
+  "start": 51.66,
+  "end": 52.66,
+  "persons": 5.0,
+  "med_h": 251.01705932617188,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 16,
+  "start": 52.66,
+  "end": 56.89,
+  "persons": 4.0,
+  "med_h": 281.33160400390625,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 17,
+  "start": 56.89,
+  "end": 59.37,
+  "persons": 0.0,
+  "med_h": 555.060302734375,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 18,
+  "start": 59.37,
+  "end": 61.89,
+  "persons": 4.0,
+  "med_h": 698.099609375,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 19,
+  "start": 61.89,
+  "end": 64.5,
+  "persons": 5.0,
+  "med_h": 234.02581787109375,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 20,
+  "start": 64.5,
+  "end": 68.29,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 21,
+  "start": 68.29,
+  "end": 70.41,
+  "persons": 5.0,
+  "med_h": 258.44097900390625,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 22,
+  "start": 70.41,
+  "end": 71.78,
+  "persons": 5.0,
+  "med_h": 654.8792724609375,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 23,
+  "start": 71.78,
+  "end": 81.53,
+  "persons": 1.0,
+  "med_h": 723.04931640625,
+  "bug": 0.1,
+  "delivery_view": false
+ },
+ {
+  "shot": 24,
+  "start": 81.53,
+  "end": 84.05,
+  "persons": 5.0,
+  "med_h": 287.8027038574219,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 25,
+  "start": 84.05,
+  "end": 84.53,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 26,
+  "start": 84.53,
+  "end": 85.62,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 27,
+  "start": 85.62,
+  "end": 88.45,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 28,
+  "start": 88.45,
+  "end": 90.37,
+  "persons": 5.0,
+  "med_h": 269.582763671875,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 29,
+  "start": 90.37,
+  "end": 94.77,
+  "persons": 2.0,
+  "med_h": 938.2286987304688,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 30,
+  "start": 94.77,
+  "end": 99.42,
+  "persons": 0.0,
+  "med_h": 821.9600219726562,
+  "bug": 0.4444444444444444,
+  "delivery_view": false
+ },
+ {
+  "shot": 31,
+  "start": 99.42,
+  "end": 100.09,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 0.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 32,
+  "start": 100.09,
+  "end": 101.86,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 0.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 33,
+  "start": 101.86,
+  "end": 109.21,
+  "persons": 0.0,
+  "med_h": 241.5965576171875,
+  "bug": 0.7333333333333333,
+  "delivery_view": false
+ },
+ {
+  "shot": 34,
+  "start": 109.21,
+  "end": 111.45,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 35,
+  "start": 111.45,
+  "end": 114.01,
+  "persons": 0.0,
+  "med_h": 237.9895477294922,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 36,
+  "start": 114.01,
+  "end": 114.94,
+  "persons": 5.0,
+  "med_h": 258.98065185546875,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 37,
+  "start": 114.94,
+  "end": 123.73,
+  "persons": 1.0,
+  "med_h": 783.8880615234375,
+  "bug": 0.3888888888888889,
+  "delivery_view": false
+ },
+ {
+  "shot": 38,
+  "start": 123.73,
+  "end": 127.65,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 0.75,
+  "delivery_view": false
+ },
+ {
+  "shot": 39,
+  "start": 127.65,
+  "end": 129.14,
+  "persons": 2.0,
+  "med_h": 986.0093994140625,
+  "bug": 0.6666666666666666,
+  "delivery_view": false
+ },
+ {
+  "shot": 40,
+  "start": 129.14,
+  "end": 131.81,
+  "persons": 5.0,
+  "med_h": 263.0872802734375,
+  "bug": 1.0,
+  "delivery_view": true
+ },
+ {
+  "shot": 41,
+  "start": 131.81,
+  "end": 135.37,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 42,
+  "start": 135.37,
+  "end": 141.06,
+  "persons": 3.0,
+  "med_h": 301.1911315917969,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 43,
+  "start": 141.06,
+  "end": 145.82,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 1.0,
+  "delivery_view": false
+ },
+ {
+  "shot": 44,
+  "start": 145.82,
+  "end": 146.16,
+  "persons": 0.0,
+  "med_h": 0,
+  "bug": 0.0,
+  "delivery_view": false
+ }
+]
